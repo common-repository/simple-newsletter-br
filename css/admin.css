@@ -1,0 +1,6 @@
+.donation_values li{
+	display: block;
+	float: left;
+	width: 50%;
+	text-align: center;
+}
